@@ -12,7 +12,7 @@ import math
 from collections import OrderedDict
 from itertools import islice
 
-from hammerhead_control.msg import Errors
+from picker_robot.msg import Errors
 from pid_controller.msg import PID
 
 no_of_weights=3
