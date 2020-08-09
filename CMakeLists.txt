@@ -6,7 +6,7 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   vectornav
-  hammerhead_control
+  picker_robot
   pid_controller
 )
 ################################################
